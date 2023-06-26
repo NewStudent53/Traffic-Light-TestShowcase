@@ -1,5 +1,8 @@
 # Hello World with React boilerplate
 
+1)Run npm install
+2)You should be capable of running npm run dev, in case you're unable to do so, npm start also works, pd: thanks for the tutorials.
+
 Start coding a react application
 
 > If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
